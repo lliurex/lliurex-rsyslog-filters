@@ -2,8 +2,8 @@ Source: lliurex-rsyslog-filters
 Section: admin
 Priority: optional
 Maintainer: M.Angel <m.angel.juan@gmail.com>
-Build-Depends: debhelper (>= 8.0.0)
-Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
 
 Package: lliurex-rsyslog-filters
 Architecture: all
